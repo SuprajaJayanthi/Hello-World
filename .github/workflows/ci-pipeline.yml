@@ -1,0 +1,4 @@
+name: CI Pipeline
+on  Push:
+    branches: 
+      - main
